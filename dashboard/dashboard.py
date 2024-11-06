@@ -66,7 +66,7 @@ def rental_per_month(df):
     return monthly_rental_df
 
 #load dataframe
-bike_rental_df = pd.read_csv("day.csv")
+bike_rental_df = pd.read_csv("data/day.csv")
 
 #Mengubah datatype "dteday" menjadi datetime
 bike_rental_df["dteday"] = pd.to_datetime(bike_rental_df["dteday"])
