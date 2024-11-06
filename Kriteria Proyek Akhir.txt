@@ -1,0 +1,4 @@
+1. Menggunakan dataset yang sudah disediakan
+2. Melakukan proses analisis dengan membuat minimal 2 pertanyaan bisnis (analisis)
+3. Memvisualisasikan minimal 2 buah data untuk menjawab pertanyaan bisnis tersebut
+4. Membuat semuanya pada dashboard menggunakan Streamfit
